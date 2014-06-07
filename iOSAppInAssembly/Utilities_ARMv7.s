@@ -1,8 +1,8 @@
 // Utilities_ARMv7.s
-// This file contains a collection of uitlities used throughout the applciation.
+// This file contains a collection of utilities used throughout the application.
 
 
-// Helper funciton to convert C-string to Objecitve-C string.
+// Helper function to convert C-string to Objective-C string.
 //
 // Parameters:
 //  r0: input pointer
@@ -23,7 +23,7 @@ util_getCFString:
     // Parameter 2 (r1) is the string.
     // Parameter 3 (r2) is the encoding.
     //
-    // It resulting string will be stored in the r0 register.
+    // Its resulting string will be stored in the r0 register.
     mov r1, r0
     mov r0, #0
     mov r2, #1536

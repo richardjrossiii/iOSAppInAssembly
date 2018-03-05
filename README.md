@@ -24,7 +24,7 @@ If running the app with any accessiblity features enabled (switch control, guide
 
 And, as always, the mighty power of Google.
 
-###License
+### License
 
 Copyright 2014 Richard J. Ross III.
 
